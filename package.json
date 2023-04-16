@@ -1,0 +1,14 @@
+{
+  "name": "redux_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reducer.js",
+  "scripts": {
+    "test": "node reducer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
